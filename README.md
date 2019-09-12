@@ -2,6 +2,7 @@
 FPGA Based VHDL Oscilloscope with ADC0804
 
 ##Design Methodology
+Our design methodlogy is given below.
 
 ![Design Diagram](https://github.com/muhammedtarikyildiz/oscilloscope-vhdl/blob/master/img/diagram.jpeg?raw=true)
 
