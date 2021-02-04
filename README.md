@@ -12,5 +12,5 @@ Our design methodlogy is given below.
 
 ## How Does It Look Like? ##
 
-![Monitor Image](https://github.com/muhammedtarikyildiz/oscilloscope-vhdl/blob/master/img/screen.jpeg?raw=true)
-![Oscilloscope Image](https://github.com/muhammedtarikyildiz/oscilloscope-vhdl/blob/master/img/os1.jpeg?raw=true)
+![Monitor Image](https://github.com/muhammedtarikyildiz/oscilloscope-vhdl/blob/master/img/screen.jpg?raw=true)
+![Oscilloscope Image](https://github.com/muhammedtarikyildiz/oscilloscope-vhdl/blob/master/img/os1.jpg?raw=true)
